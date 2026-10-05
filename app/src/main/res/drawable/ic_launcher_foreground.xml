@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Chef Hat / Steam -->
+        <path
+            android:fillColor="#FFF8E1"
+            android:pathData="M54,26c-3,0 -5.5,1.8 -6.5,4.3c-1.3,-0.8 -2.8,-1.3 -4.5,-1.3c-4.4,0 -8,3.6 -8,8c0,1.3 0.3,2.5 0.9,3.6c-2.4,1.4 -4,4 -4,7c0,4.2 3.2,7.7 7.3,8.1L40,58h28l0.8,-2.3c4.1,-0.4 7.2,-3.9 7.2,-8.1c0,-3 -1.6,-5.6 -4,-7c0.6,-1.1 0.9,-2.3 0.9,-3.6c0,-4.4 -3.6,-8 -8,-8c-1.6,0 -3.2,0.5 -4.5,1.3c-0.9,-2.5 -3.4,-4.3 -6.4,-4.3z" />
+        <!-- Skillet / Pan Body -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M31,60c0,11.6 9.4,21 21,21h6c11.6,0 21,-9.4 21,-21H31z" />
+        <!-- Pan Handle -->
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M78,64h15c1.7,0 3,1.3 3,3v2c0,1.7 -1.3,3 -3,3H78V64z" />
+        <!-- Sizzling Street Food / Liver & Peppers in Pan -->
+        <path
+            android:fillColor="#D32F2F"
+            android:pathData="M39,63c2,-3 7,-3 9,0c2,-2 6,-2 8,0c2,-3 7,-3 9,0c-1,4 -4,6 -8,6c-4,0 -5,-3 -7,-3c-2,0 -3,3 -7,3c-3,0 -5,-3 -4,-6z" />
+        <!-- Golden Savings Coin Star -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,67l1.5,3.2l3.5,0.5l-2.5,2.5l0.6,3.5l-3.1,-1.6l-3.1,1.6l0.6,-3.5l-2.5,-2.5l3.5,-0.5z" />
+    </group>
+</vector>

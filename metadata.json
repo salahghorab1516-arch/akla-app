@@ -1,0 +1,6 @@
+{
+  "name": "أكلة",
+  "description": "تطبيق لتعلم أسرار وتتبيلات أكل الشارع المصري في البيت، وحساب التوفير الذكي وتحدي الحصالة وميزانية الزنقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
